@@ -1,0 +1,21 @@
+{
+  "name": "piccheck",
+  "scripts": {
+    "build": "gulp build",
+    "watch": "gulp watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gibachan",
+  "devDependencies": {
+    "browserify": "^9.0.3",
+    "gulp": "^3.8.11",
+    "gulp-util": "^3.0.4",
+    "react": "^0.13.1",
+    "reactify": "^1.1.0",
+    "reflux": "^0.2.7",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}

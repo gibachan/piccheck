@@ -1,0 +1,15 @@
+
+img.picture {
+  width: 500px;
+  height: auto;
+}
+
+img.nomap {
+  width: 500px;
+  height: auto;  
+}
+
+div.map {
+  width: 500px;
+  height: 500px;
+}
